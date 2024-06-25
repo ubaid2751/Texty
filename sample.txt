@@ -1,0 +1,15 @@
+Hello, this is a sample text file.
+It contains multiple lines of text.
+You can use it to practice various string manipulation techniques.
+
+Some examples of string manipulation include:
+- Finding and replacing words,
+- Counting the occurrences of certain words,
+- Extracting specific parts of the text,
+- Converting text to uppercase or lowercase,
+- Removing punctuation,
+- Splitting the text into lines or words,
+- Reversing the order of words or lines.
+
+Feel free to modify this text file, or add more content as needed.
+Happy coding!
